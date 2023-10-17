@@ -1,0 +1,9 @@
+Executing script: /Users/quocnamtran/Desktop/twilo/fizzbuzz.py
+Script arguments: -3000,7,6,100
+Output:
+Traceback (most recent call last):
+  File "/Users/quocnamtran/Desktop/twilo/fizzbuzz.py", line 7, in <module>
+    if item/3 == 0:
+       ~~~~^~
+TypeError: unsupported operand type(s) for /: 'str' and 'int'
+
